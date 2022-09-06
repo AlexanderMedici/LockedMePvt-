@@ -17,7 +17,7 @@ As a Full Stack Developer, complete the features of the application by planning 
  <li>Java</li> 
  <li>File Management</li> 
  <li>Command-Line Interface</li> 
- <li>Crud Funcionality</li> 
+ <li>Create, Update, Delete, Search Funcionality</li> 
 
 </ul>
 
@@ -98,12 +98,15 @@ As a Full Stack Developer, complete the features of the application by planning 
 <li>There should be a third option to close the application</li>
 
 <li>Implement the appropriate concepts such as exceptions, collections, and sorting techniques for source code optimization and increased performance </li>
-## Use Case
+
+## Use-Case 
 
 - A Command Line Interface 
 - Create Delete Search For A File
 - Return Files Alphabetically
 - Keep Your Directory Clean 
+
+File management is the best use case for this type of software. File management is the process of administering a system that correctly handles digital data. Therefore, an effective file management system improves the overall function of a business workflow. It also organizes important data and provides a searchable database for quick retrieval.
 
 
 ## Screenshots
