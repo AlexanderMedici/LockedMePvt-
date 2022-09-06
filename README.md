@@ -6,11 +6,10 @@ As a Full Stack Developer, complete the features of the application by planning 
 - [Use Case](#use-case)
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 - [Contact Me](#contact-me)
 
 ## Project Website
-- [Project Website Link](<https://"/> "Not Online")
+- [Not LIVE Yet ](<https://"/> "Not Online")
 
 ## Features
 <ul>
@@ -34,11 +33,11 @@ As a Full Stack Developer, complete the features of the application by planning 
 
 <li>Data Structures where sorting and searching techniques are used. </li>
 
-<p>Generic features and three operations: </p>
+<h1>Generic features and three operations: </h1>
 
 <li>Retrieving the file names in an ascending order</li>
 
-<p>Business-level operations:</p>
+<h1>Business-level operations:</h1>
 
 <li>Option to add a user specified file to the application</li>
 
@@ -55,7 +54,7 @@ As a Full Stack Developer, complete the features of the application by planning 
 <li>The goal of the company is to deliver a high-end quality product as early as possible.</li> 
  
 
-<p>The flow and features of the application:</p>
+<h1>The flow and features of the application:</h1>
 
 <li>Plan more than two sprints to complete the application </li>
 
@@ -63,7 +62,7 @@ As a Full Stack Developer, complete the features of the application by planning 
 
 <li>List the core concepts and algorithms being used to complete this application</li>
 
-<p>Code to display the welcome screen. It should display:</p>
+<h1>Code to display the welcome screen. It should display:</h1>
 
 <li>Application name and the developer details </li>
 
@@ -73,7 +72,7 @@ As a Full Stack Developer, complete the features of the application by planning 
 
 <li>The first option should return the current file names in ascending order. The root directory can be either empty or contain few files or folders in it</li>
 
-<p>The second option should return the details of the user interface such as options displaying the following:</p>
+<h1>The second option should return the details of the user interface such as options displaying the following:</h1>
 
 <li>Add a file to the existing directory list</li>
 
