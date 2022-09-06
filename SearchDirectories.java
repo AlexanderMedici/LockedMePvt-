@@ -49,30 +49,3 @@ else {
 	
 	}
 
-
-
-//public static void main(String[] args) {
-//	File fileDir = new File("D:\\\\FULL STACK SOFTWARE ENGINEER LIBRARY\\\\CALTECH PROJECTS\\");
-//
-//public static void main(String[] args) {
-//	File fileDir = new File("D:\\\\FULL STACK SOFTWARE ENGINEER LIBRARY\\\\CALTECH PROJECTS\\");
-//	if(fileDir.isDirectory()){
-//		List<String> listFile = Arrays.asList(fileDir.list());
-//		Collections.sort(listFile);
-//		System.out.println("---------------------------------------");
-//		System.out.println("Sorting by filename in ascending order");
-//		for(String s:listFile){
-//			System.out.println(s);
-//		}
-//
-//
-//	}
-//	else{
-//		System.out.println(fileDir.getAbsolutePath() + " is not a directory");
-//	}
-//
-//}
-//
-//
-//
-//}
